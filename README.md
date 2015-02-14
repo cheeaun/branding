@@ -26,7 +26,7 @@ Colors
 Writing
 ---
 
-My full name is **Lim Chee Aun**. **Lim** is the surname/family name/last name. **Chee Aun** is the give name/first name. **cheeaun** is the nickname and always lowercased.
+My full name is **Lim Chee Aun**. **Lim** is the surname/family name/last name. **Chee Aun** is the given name/first name. **cheeaun** is the nickname and always lowercased.
 
 ### Correct
 
